@@ -3,8 +3,6 @@
 # 💫 About Me:
 🧑‍🎓 Software Engineering student.<br>🧑‍💻 Full stack developer Jr.<br>🙌 I'm interested in UX design.<br>🔌 Technology enthusiast.<br>🐶  I like dogs.<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jesus Acosta M ) 
 
 
 # 💻 Tech Stack:
